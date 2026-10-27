@@ -1,5 +1,5 @@
 # Shape-area-and-parameter-calculator (PPF)
-The Shape Area &amp; Perimeter Calculator is a simple C++ project developed using Object-Oriented Programming (OOPS) concepts. It calculates the area and perimeter of three shapes: Circle, Rectangle, and Triangle.
+The Shape Area and Perimeter Calculator is a simple C++ project developed using Object-Oriented Programming (OOPS) concepts. It calculates the area and perimeter of three shapes: Circle, Rectangle, and Triangle.
 
 
 The program uses a menu-driven interface that allows users to select a shape, enter its dimensions, and view the calculated area and perimeter.
